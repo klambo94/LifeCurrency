@@ -14,9 +14,9 @@ TagManager:
   - 
   - 
   - MapBoxCollider
-  - 
-  - 
-  - 
+  - Floor
+  - Walls
+  - Windows
   - 
   - 
   - 
