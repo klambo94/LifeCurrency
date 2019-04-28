@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HospitalScene.unity
     guid: b690e03bb5e41604ea1706a49eee4ade
+  - enabled: 1
+    path: Assets/Scenes/WorldMap.unity
+    guid: 254b8d00cce9e6b4097dd5cd4ddd7d38
+  - enabled: 1
+    path: Assets/Scenes/LevelOneScene.unity
+    guid: 2318771fb250bed43a2e04e1d0ee94a1
+  - enabled: 1
+    path: Assets/Scenes/LevelTwoScene.unity
+    guid: 4a87140408efdc94bbd61475eae86f5d
+  - enabled: 1
+    path: Assets/Scenes/LevelThreeScene.unity
+    guid: d256b705c621d5c4cb2fb7b041a585d6
+  - enabled: 1
+    path: Assets/Scenes/BloodBankScene.unity
+    guid: df309e734e8b5b841bd591b020a3b22d
   m_configObjects: {}

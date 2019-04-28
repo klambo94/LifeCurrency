@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class MapOnMouseDown : MonoBehaviour
+public class MapOnMouseEvents : MonoBehaviour
 {
     public SceneAsset scene;
     
