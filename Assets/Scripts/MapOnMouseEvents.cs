@@ -1,17 +1,17 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class MapOnMouseDown : MonoBehaviour
+public class MapOnMouseEvents : MonoBehaviour
 {
+    public SceneAsset scene;
     
     void OnMouseUpAsButton()
     {
-        
-        Debug.Log("This is a mouse click");
         // load a new scene
-        SceneManager.LoadScene("HospitalScene");
+        SceneManager.LoadScene(scene.name);
     }
 }
